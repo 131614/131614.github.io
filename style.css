@@ -54,6 +54,7 @@ nav ul li a:hover{
 	color:#ffffff;
 	font-size:22px;
 	line-height:0px;
+	
 }
 .t-container p:nth-child(2){
 	font-family:calibri;
@@ -62,7 +63,8 @@ nav ul li a:hover{
 	color: #f6f6f6;;
 	font-size:60px;
 	line-height:0px;
-	
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .t-container p:nth-child(3){
@@ -152,7 +154,7 @@ button:active{
 	color: #f6f5f5;
 }
 .skill{
-	width: 100%;
+	width:fit-content;
 	height:425px;
 	background-color:#ffffff;
 	padding: 2% 10% 0px 10%;
