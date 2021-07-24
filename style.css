@@ -99,7 +99,6 @@ nav ul li a:hover{
 	background-color:transparent;
 	
 }
-
 button:active{
 	transform:scale(1.1);
 }
@@ -200,7 +199,7 @@ font-size:20px;}
 	margin: 0px 4px;
 		
 }
- 
+
 .box-1{
 	background-image:url("images/img_css.jpg");
 }
